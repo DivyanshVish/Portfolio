@@ -22,10 +22,21 @@ String aboutWorkExperience = '''
 Hola guys! 
 I am a Flutter Developer.
 Currently learning Flutter and Dart to achieve my goals.
+
 ''';
 
 String aboutMeSummary = '''
+🌱 I’m currently learning Data Structures and Algorithms.
 
+👯 I’m looking to collaborate on Open Source Projects
+
+👨‍💻 All of my projects are available at GitHub Repositories
+
+📫 How to reach me ansh1111smith@gmail.com
+
+🧑‍🎓 I'm Currently learning Java and Python
+
+🧑‍🎓 Flutter Developer
 ''';
 
 String location = "Varanasi, India";
@@ -50,10 +61,10 @@ List<Project> projectList = [
              create groups, search groups, and join them to chat with other
              group members. Also added a Login and Register feature,
              where the app could remember the last login activity and save
-             it in the Shared Preferences""",
+             it in the Shared Preferences.""",
       link: "https://github.com/DivyanshVish/Chat-App.git"),
   Project(
       name: "Flutter Portfolio",
       description: "A template for Portfolio",
-      link: "")
+      link: "https://github.com/DivyanshVish/Portfolio.git")
 ];
